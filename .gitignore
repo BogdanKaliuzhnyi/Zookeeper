@@ -1,0 +1,11 @@
+# Project exclude paths
+/.gradle/
+/Topics/Conditional statement/Healthy sleep/out/
+/Topics/Conditional statement/Healthy sleep/out/production/classes/
+/Topics/Relational operators/Check the given numbers are different/out/
+/Topics/Relational operators/Check the given numbers are different/out/production/classes/
+/Topics/Relational operators/Groundhogs at a party/out/
+/Topics/Relational operators/Groundhogs at a party/out/production/classes/
+/Zookeeper (Java)/task/build/
+/Zookeeper (Java)/task/out/
+/Zookeeper (Java)/task/out/production/classes/
